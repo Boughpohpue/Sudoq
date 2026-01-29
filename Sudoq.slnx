@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Sudoq.DemoConsole/Sudoq.DemoConsole.csproj" Id="562e4351-2b4a-4c93-8555-1be3dd66c2c6" />
+  <Project Path="Sudoq/Sudoq.csproj" Id="8b34e574-8852-476b-9886-f22b761da05a" />
+</Solution>

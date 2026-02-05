@@ -1,10 +1,10 @@
 # Sudoq
 
-A lightweight C# library exposing functions for generating sudoku boards at different levels of difficulty.
+A lightweight C# library exposing functions for generating sudoku boards with included masksing option for different levels of difficulty.
 
 ## Generating boards
 
-**Sudoq** can generate plain boards and boards with 10 difficulty levels (1-10)
+**Sudoq** can generate boards complete orwith maskig at 10 different difficulty levels (1-10)
 
 
 ## Examples
